@@ -1,0 +1,9 @@
+!1aceawp
+!1clutch1v4
+!commands
+!headshot <NombreDelInfeliz>
+!like
+!resolution
+!sensitivity
+!stratorage
+!tuitear
